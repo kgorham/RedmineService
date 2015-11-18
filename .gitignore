@@ -1,0 +1,4 @@
+/.vs/RedmineService/v14/*.suo
+/obj
+/bin
+/RedmineService.csproj.user
