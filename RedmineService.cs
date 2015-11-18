@@ -43,7 +43,7 @@ namespace RedmineService {
         /**
         * Setup the enviroment and start thin
         *
-        * requirements;
+        * Requirements:
         *
         * A local user account must be created on the system.
         * This install assumes the name of 'redmine'
